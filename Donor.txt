@@ -1,0 +1,80 @@
+-----------------------------------
+Name: Tarik Saidul Islam Sabit
+Gender: Male
+Age: 22
+Blood Group: B+
+Weight: 78 kg
+Phone Number: 01623672660
+Address: Mirpur-1, Dhaka-1216
+Last Donated: March 2025
+-----------------------------------
+-----------------------------------
+Name: Habiba 
+Gender: Female
+Age: 21
+Blood Group: O-
+Weight: 57 kg
+Phone Number: 01814697867
+Address: Shah Ali Bag, Mirpur-1,Dhaka-1216
+Last Donated: Never
+-----------------------------------
+-----------------------------------
+Name: Raya Tabasum 
+Gender: Female
+Age: 20
+Blood Group: A+
+Weight: 56 kg
+Phone Number: 01400313089
+Address: Mirpur-10, Dhaka
+Last Donated: Never
+-----------------------------------
+-----------------------------------
+Name: Sababa Ahmed
+Gender: Female
+Age: 20
+Blood Group: O+
+Weight: 56 kg
+Phone Number: 01863365068
+Address: Mirpur-12, Dhaka
+Last Donated: Never
+-----------------------------------
+-----------------------------------
+Name: Tamim Reza
+Gender: Male
+Age: 20
+Blood Group: O+
+Weight: 60 kg
+Phone Number: 01991206649
+Address: Mirpur-1, Dhaka-1216
+Last Donated: Never
+-----------------------------------
+-----------------------------------
+Name: Mir Shajid Hossain 
+Gender: Male
+Age: 22
+Blood Group: A+
+Weight: 77 kg
+Phone Number: 01522132062
+Address: Mirpur-1, Dhaka-1216
+Last Donated: Never
+-----------------------------------
+-----------------------------------
+Name: Tarik Mainul Islam 
+Gender: Male 
+Age: 28
+Blood Group: A+
+Weight: 78 kg
+Phone Number: 01988601367
+Address: Mirpur-1, Dhaka-1216
+Last Donated: January, 2025
+-----------------------------------
+-----------------------------------
+Name: Karim 
+Gender: Male 
+Age: 25
+Blood Group: B-
+Weight: 70 kg
+Phone Number: 01234567891
+Address: Jatrabari
+Last Donated: March 2025
+-----------------------------------
