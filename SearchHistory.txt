@@ -1,0 +1,13 @@
+B+|1|Mirpur |Dhaka |Dhaka |Alok 
+Receiver Blood Group: B+
+Thana: Mirpur 
+District: Dhaka 
+Division: Dhaka 
+Hospital: Alok 
+---
+Receiver Blood Group: O+
+Thana: Adabor
+District: Dhaka 
+Division: Dhaka
+Hospital: Square Hospital
+---
